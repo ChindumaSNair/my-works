@@ -1,0 +1,10 @@
+variable "tg_name" {}
+variable "tg_port" {}
+variable "tg_protocol" {}
+variable "t_type" {}
+variable "vpc_id" {}
+variable "hc_path" {}
+variable "hc_port" {}
+variable "hc_protocol" {}
+variable "hc_matcher" {}
+variable "default_tags" {}
